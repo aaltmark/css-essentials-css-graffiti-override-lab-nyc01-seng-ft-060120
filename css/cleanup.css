@@ -2,3 +2,19 @@
 #wall .tag-1 {
   display: none;
 }
+
+.tag-2 {
+  color: red;
+}
+
+.tag-3 {
+  color: blue;
+}
+
+.tag-4 {
+  color: purple;
+}
+
+.tag-5 {
+  color: orange;
+}
